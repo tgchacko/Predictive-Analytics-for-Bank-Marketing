@@ -285,7 +285,7 @@ The models' performance was evaluated using the above metrics was the Random For
 
 ## References
 
-- [Scikit-learn documentation](https://pypi.org/project/imbalanced-learn/)
+- [Scikit-learn documentation](https://scikit-learn.org/stable/)
 - [XGBoost documentation](https://pypi.org/project/xgboost/)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
